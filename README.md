@@ -20,4 +20,12 @@ Vidy AI++ is an AI-powered multi-language learning platform designed to provide 
 - Malayalam
 
 ## 📁 Project Structure
+![image alt](https://github.com/Usman-web-123/VidyAI-/blob/main/Screenshot%202025-04-13%20081630.png?raw=true)
+![image alt](https://github.com/Usman-web-123/VidyAI-/blob/main/Screenshot%202025-04-13%20081644.png?raw=true)
+![image alt](https://github.com/Usman-web-123/VidyAI-/blob/main/Screenshot%202025-04-13%20081652.png?raw=true)
+![image alt](https://github.com/Usman-web-123/VidyAI-/blob/main/Screenshot%202025-04-13%20081659.png?raw=true)
+![image alt](https://github.com/Usman-web-123/VidyAI-/blob/main/Screenshot%202025-04-13%20081707.png?raw=true)
+![image alt](https://github.com/Usman-web-123/VidyAI-/blob/main/Screenshot%202025-04-13%20081714.png?raw=true)
+![image alt](https://github.com/Usman-web-123/VidyAI-/blob/main/Screenshot%202025-04-13%20081721.png?raw=true)
+
 
